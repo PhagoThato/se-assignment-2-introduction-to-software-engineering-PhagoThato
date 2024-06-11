@@ -1,0 +1,152 @@
+1.Software Engineering is the process of developing,testing and deploying computer applications to solve real world problems.
+
+
+2.Software engineering focuses broadly on the software, while programming is about writing code.
+
+
+Software Development Life Cycle (SDLC) Phases:
+Planning & Analysis:
+In this initial phase, business requirements are gathered from stakeholders.
+Feasibility, cost-effectiveness, and end-user needs are evaluated.
+A detailed project plan is created.
+
+Requirements Definition:
+Clear requirements are derived from the planning and analysis phase.
+These requirements guide the development team.
+Design:
+Architectural and system design take place.
+High-level and low-level designs are created.
+Development:
+Actual coding and implementation occur.
+Developers write code based on the design specifications.
+Testing:
+The software is thoroughly tested to identify defects.
+Different testing levels (unit, integration, system, acceptance) are performed.
+Deployment:
+The software is released to production or made available to users.
+Deployment may involve installation, configuration, and data migration.
+Maintenance:
+Ongoing support, bug fixes, and updates are provided.
+Enhancements and optimizations are made as needed.
+
+Agile vs. Waterfall Models:
+
+Waterfall:
+Linear and sequential approach.
+Well-defined stages with formal hand-offs.
+Requirements completed before moving to the next phase.
+Typically suited for stable, predictable projects.
+
+Agile:
+Iterative and flexible.
+Work divided into time-based Sprints.
+Self-organizing teams prioritize and adapt.
+Suited for dynamic, evolving projects.
+
+
+Requirements Engineering (RE) is a systematic process used in engineering projects to define, document, and maintain requirements. In the context of software development, it serves as a crucial first step, involving the detailed gathering of both functional and non-functional requirements from various stakeholders. Let’s delve into the specifics:
+
+Feasibility Study:
+This initial phase assesses whether the project should proceed. It examines technical, economic, legal, operational, and schedule feasibility.
+Understanding feasibility helps set budgets and reduce unnecessary expenses, making the process more cost-efficient.
+Requirement Elicitation and Analysis:
+Developers and stakeholders meet to inquire about their needs and wants regarding the software product.
+Requirements are identified, including new ones if the development is iterative. Conflicts with stakeholders are resolved.
+Written analysis tools (e.g., use cases, user stories) and graphical tools (e.g., UML, LML) aid this process.
+System Modeling:
+Some engineering fields require complete system design and modeling before construction or fabrication starts.
+For instance, blueprints for a building must be elaborated before any contract can be approved.
+Fields might use the Lifecycle Modeling Language or UML for system modeling.
+Requirements Specification:
+Requirements are documented in a formal artifact called a Requirements Specification (RS).
+RS contains both written and graphical information (if necessary). Example: Software Requirements Specification (SRS).
+Requirements Validation:
+Ensures that documented requirements and models are consistent and meet stakeholder needs.
+Importance in the Software Development Lifecycle:
+
+User Expectations: RE ensures that the software aligns with user expectations and business goals.
+Quality Assurance: Properly defined requirements lead to higher-quality software.
+Cost Efficiency: Early identification of issues reduces rework costs.
+Risk Mitigation: Clear requirements help manage project risks.
+Communication: RE fosters communication among stakeholders throughout the project lifecycle.
+
+Software Design Principles:
+Modularity in software engineering refers to the design approach that emphasizes the separation of concerns.
+modularity enhances software development by making it more manageable, reusable, and maintainable.
+
+Testing in Software Engineering:
+Unit Testing: To verify individual components (such as methods or functions) in isolation.
+
+Integration Testing: To check if different components/modules work together seamlessly.
+
+System Testing: To evaluate the entire system against functional and non-functional requirements.
+
+Acceptance Testing: To validate if the software meets specified requirements.
+
+Why Testing Matters:
+
+Quality Assurance: Testing helps identify and fix defects early, preventing issues in production.
+Risk Mitigation: Reduces the risk of software failures, security breaches, and financial losses.
+User Satisfaction: Ensures that the software meets user expectations and provides a positive experience.
+Cost Savings: Detecting and fixing issues during development is more cost-effective than post-release fixes
+
+Version Control Systems:
+Version control systems (VCS) play a crucial role in software development by managing changes to codebases.
+Git:
+De facto standard due to speed, flexibility, and robust features.
+
+Software Project Management:
+ The software project manager plays a critical role in overseeing software development projects. Here are some key responsibilities and challenges they face:
+
+Responsibilities:
+Project Planning:
+Define project scope, objectives, and deliverables.
+Create a detailed project plan, including timelines and resource allocation.
+Team Coordination:
+Assemble and lead cross-functional teams.
+
+Challenges:
+Scope Creep:
+Balancing client requests with project constraints.
+Resource Constraints:
+Limited time, budget, and skilled personnel.
+Technical Complexity:
+Integrating various technologies and managing dependencies.
+Communication Issues:
+Ensuring clear communication among team members.
+Changing Requirements:
+Adapting to evolving client needs.
+Time Pressure:
+Meeting deadlines without compromising quality.
+
+Software Maintenance:
+
+Software maintenance refers to the ongoing process of modifying and updating software after its initial delivery. It ensures the continued functionality, reliability, and relevance of the software system throughout its lifecycle.
+
+Corrective Maintenance: Fixes bugs and defects in the software.
+Adaptive Maintenance: Modifies the software to work in new or changed environments.
+Perfective Maintenance: Enhances performance and adds new features.
+Preventive Maintenance: Identifies and addresses potential issues before they become significant problems.
+
+Why Maintenance Matters:
+
+System Longevity: Regular maintenance extends the life of software systems.
+Cost Savings: Prevents expensive failures and reduces post-release fixes.
+User Satisfaction: Ensures software meets evolving needs and remains reliable.
+Competitiveness: Keeps software up-to-date and aligned with industry standards
+
+
+Ethical Considerations in Software Engineering:
+
+Algorithmic Bias:
+Bias in algorithms can perpetuate discrimination or unfairness.
+Mitigation: Rigorous testing, diverse development teams, and transparency in decision-making.
+
+Data Privacy:
+Handling personal data responsibly is crucial.
+Mitigation: Comply with privacy laws, minimize data collection, and secure sensitive information.
+
+Accessibility:
+Ensuring equal access for all users, including those with disabilities.
+
+I used copilot for my research
